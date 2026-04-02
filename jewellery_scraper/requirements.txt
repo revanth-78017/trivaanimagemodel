@@ -1,0 +1,5 @@
+icrawler
+Pillow
+imagehash
+requests
+beautifulsoup4

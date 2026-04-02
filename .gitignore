@@ -36,3 +36,11 @@ checkpoint-*/
 # OS
 .DS_Store
 Thumbs.db
+
+# Scraper Data
+jewellery_scraper/dataset/
+jewellery_scraper/dataset.zip
+jewellery_scraper/gods_dataset/
+jewellery_scraper/gods_temp_downloads/
+jewellery_scraper/gods_dataset_sample.zip
+jewellery_scraper/venv/
